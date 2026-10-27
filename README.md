@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F0C1D,50:30204D,100:7C3AED&text=INEFFABLE&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Engineer%20%E2%9A%A1%20Developer%20%E2%9A%A1%20Vibe%20Coder&descAlignY=58&descSize=18&descColor=C4B5FD" alt="Ineffable banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F0C1D,50:30204D,100:7C3AED&text=INEFFABLE&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Engineer%20%E2%9A%A1%20Developer%20%E2%9A%A1%20LAzY%20Coder&descAlignY=58&descSize=18&descColor=C4B5FD" alt="Ineffable banner" />
 
 <a href="https://github.com/ineffablexd">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&height=40&lines=Engineering+meets+imagination.;Building+apps%2C+tools+%26+automations.;Flutter+%C2%B7+Python+%C2%B7+Linux+%C2%B7+AI;Turning+ideas+into+working+software." alt="Typing animation" />

@@ -1,149 +1,129 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:101010,100:00FF9C&height=200&section=header&text=INEFFABLE.exe&fontSize=52&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=ENGINEER%20%7C%20DEVELOPER%20%7C%20VIBE%20CODER&descSize=14&descAlignY=57" width="100%"/>
-
-<a href="https://github.com/ineffablexd">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Initializing+INEFFABLE.exe...;Engineering+by+degree.+Coding+by+obsession.;Building+things+that+shouldn't+exist+(yet).;Flutter+%7C+Python+%7C+Linux+%7C+AI;sudo+make+life+interesting" alt="Typing SVG"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:171321,50:30204D,100:7C3AED&text=INEFFABLE&fontSize=55&fontColor=FFFFFF&fontAlignY=45&desc=ENGINEER%20%20%2F%2F%20%20DEVELOPER%20%20%2F%2F%20%20VIBE%20CODER&descAlignY=72&descSize=13" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ineffablexd-00FF9C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ineffablexd)
-[![Profile Views](https://komarev.com/ghpvc/?username=ineffablexd&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS)](https://github.com/ineffablexd)
+<a href="https://github.com/ineffablexd">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Engineering+meets+imagination.;Building+apps%2C+tools+and+automations.;Flutter+%7C+Python+%7C+Linux+%7C+AI" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ineffablexd">
+<img src="https://img.shields.io/badge/Repositories-97-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/ineffablexd?tab=stars">
+<img src="https://img.shields.io/github/stars/ineffablexd?style=for-the-badge&color=EC4899&label=Stars&logo=github" />
+</a>
+<a href="https://github.com/ineffablexd?tab=followers">
+<img src="https://img.shields.io/github/followers/ineffablexd?style=for-the-badge&color=06B6D4&label=Followers&logo=github" />
+</a>
+<a href="https://github.com/ineffablexd">
+<img src="https://komarev.com/ghpvc/?username=ineffablexd&style=for-the-badge&color=10B981&label=PROFILE+VIEWS" />
+</a>
 
 </div>
 
 ---
 
-```text
-┌──(ineffable㉿devbox)-[~/universe]
-└─$ whoami
+## 👾 About Me
 
-   An electrical engineer with a developer's mindset.
-   I turn caffeine, curiosity and questionable ideas
-   into software that actually does something.
-```
+<table>
+<tr>
+<td width="60%" valign="top">
 
-## `01` // ABOUT ME
+### Hey, I'm Ineffable! 👋
 
-```python
-class Ineffable:
-    def __init__(self):
-        self.role = "Electrical Engineer & Developer"
-        self.languages = ["C", "C++", "Python", "Dart"]
-        self.frameworks = ["Flutter"]
-        self.interests = [
-            "Linux & System Customization",
-            "AI & Automation",
-            "GIS & Geospatial Engineering",
-            "Android Development",
-            "Open Source"
-        ]
-        self.current_mode = "Building something cool"
+Electrical engineer by degree, developer by obsession.
 
-    def mission(self):
-        return "Automate the boring. Engineer the impossible."
-```
+I build applications, automate workflows, explore Linux, and experiment with ideas that combine engineering and software.
 
-- ⚡ Engineer by degree, developer by obsession.
-- 🧠 Interested in AI, automation, and systems that make life easier.
-- 🐧 Linux enthusiast who enjoys customizing everything.
-- 📱 Building offline-first Android applications with Flutter.
-- 🗺️ Exploring GIS, mapping, and engineering automation.
-- 🌌 Probably debugging something that worked five minutes ago.
+- ⚡ Electrical engineering
+- 📱 Flutter & Android development
+- 🐍 Python automation
+- 🐧 Linux & system customization
+- 🗺️ GIS & geospatial engineering
+- 🤖 AI-assisted development
 
-> *I don't just use technology. I like understanding it, breaking it, and building it better.*
+**Currently:** Turning ideas into working software.
 
-## `02` // TECH ARSENAL
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ineffablexd&show_icons=true&hide_border=true&bg_color=171321&title_color=A78BFA&icon_color=F472B6&text_color=E5E7EB&rank_icon=github" width="100%" />
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,dart&theme=dark" alt="C, C++, Python, Dart"/>
-
-**FRAMEWORKS & DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=flutter,git,github,vscode,androidstudio,figma&theme=dark" alt="Flutter, Git, GitHub, VS Code, Android Studio, Figma"/>
-
-**SYSTEMS & TOOLS**
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,bash,sqlite,firebase&theme=dark" alt="Linux, Ubuntu, Arch Linux, Bash, SQLite, Firebase"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,dart,flutter,git,github,linux,bash,sqlite,figma,vscode&perline=6&theme=dark" />
 
 </div>
 
-## `03` // PROJECTS FROM THE LAB
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/ineffablexd/Ineffable-Hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ineffablexd&repo=Ineffable-Hub&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF9C&icon_color=00FF9C" alt="Ineffable Hub"/>
-</a>
-<a href="https://github.com/ineffablexd/Time-Vault">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ineffablexd&repo=Time-Vault&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF9C&icon_color=00FF9C" alt="Time Vault"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ineffablexd&repo=Ineffable-Hub&theme=midnight-purple&hide_border=true&bg_color=171321" width="49%" />
+</a><a href="https://github.com/ineffablexd/Time-Vault">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ineffablexd&repo=Time-Vault&theme=midnight-purple&hide_border=true&bg_color=171321" width="49%" />
 </a>
 
 </div>
 
-**Other things I'm interested in building:**
-
-- 🗺️ Offline-first GIS tools for engineering surveys.
-- 📝 Private, offline-first productivity and note-taking applications.
-- 🤖 AI-powered automation for repetitive workflows.
-- 🛠️ Tools that make Linux and Android more customizable.
-
-Explore the rest of my experiments in my [repositories](https://github.com/ineffablexd?tab=repositories).
-
-## `04` // GITHUB TELEMETRY
-
 <div align="center">
 
-<a href="https://github.com/ineffablexd">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ineffablexd&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+<a href="https://github.com/ineffablexd?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/ineffablexd">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ineffablexd&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF9C&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ineffablexd&theme=black-ice&hide_border=true&background=050505&ring=00FF9C&fire=FF00FF&currStreakLabel=00FF9C" alt="GitHub contribution streak" width="70%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ineffablexd&bg_color=050505&color=00FF9C&line=00FF9C&point=FF00FF&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
 
 </div>
 
-## `05` // CURRENT STATUS
-
-```yaml
-user: ineffable
-status: building
-environment: Linux
-primary_stack: Python + Flutter
-interests:
-  - AI and intelligent automation
-  - GIS and geospatial tools
-  - Open-source development
-  - System customization
-
-philosophy: "Learn deeply. Build relentlessly."
-```
-
-## `06` // CONNECT
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ineffablexd-00FF9C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ineffablexd)
-[![Telegram](https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ineffabletg)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ineffablexd&show_icons=true&hide_border=true&bg_color=171321&title_color=A78BFA&icon_color=F472B6&text_color=E5E7EB" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ineffablexd&layout=compact&hide_border=true&bg_color=171321&title_color=A78BFA&text_color=E5E7EB&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-### `while(alive) { code(); learn(); repeat(); }`
+<img width="75%" src="https://streak-stats.demolab.com/?user=ineffablexd&theme=midnight-purple&hide_border=true&background=171321&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:050505&height=100&section=footer" width="100%"/>
+</div>
 
-<sub>Crafted in the terminal. Powered by curiosity. Always under development.</sub>
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ineffablexd&bg_color=171321&color=C4B5FD&line=8B5CF6&point=F472B6&area=true&hide_border=true" width="100%" />
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ineffablexd">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://ineffablexd.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://t.me/Ineffabletg">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### `while(alive) { build(); learn(); repeat(); }`
+
+<sub>Designed with curiosity. Built with code. Always evolving.</sub>
 
 </div>
